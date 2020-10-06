@@ -1,0 +1,3 @@
+Physical memory is the actual RAM connected to the motherboard,
+while virtual memory is a way of managing computer memory
+that allows us to run programs that require more memory than exists in real memory.

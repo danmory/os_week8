@@ -1,0 +1,4 @@
+Pages are 8 KB -> Range of offset is [0, 8192] or [0, 2^13] ->
+-> 13 bits for the offset -> 3 bits for the page number ->
+-> 2^3 = 8 pages are needed
+
